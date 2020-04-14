@@ -1,6 +1,6 @@
 # PY-invader
 
-_Classic Space Invader Arcade using Python.
+_Classic Space Invader Arcade using Python._
 
 ### Library used : 
         1. pygame
