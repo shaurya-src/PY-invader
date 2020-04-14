@@ -3,7 +3,9 @@
 _Classic Space Invader Arcade using Python.
 
 ### Library used : 
-        * 'pygame'
+        1. pygame
+        2. random
+        3. math
 
 ### Game Evironment : 
         
@@ -12,6 +14,6 @@ _Classic Space Invader Arcade using Python.
     
 ### Controls :
 
-        * LEFT : Steer left
-        * RIGHT : Steer right
-        * UP : Fire
+        1. LEFT : Steer left
+        2. RIGHT : Steer right
+        3. UP : Fire
