@@ -19,7 +19,7 @@ pygame.display.set_caption('Space Invaders')
 bg = pygame.image.load('Assets\\bg.png')
 
 # background music
-mixer.music.load('Assets\\Sound Effects\\music.wav')
+mixer.music.load('Assets\\Sound Effects\\music.mp3')
 mixer.music.play(-1)
 
 # score
